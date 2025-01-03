@@ -20,7 +20,7 @@ df = pd.read_csv('Airbnb_data.csv')
 # Displaying Title
 st.write("""
 <div style='text-align:center'>
-    <h1 style='color:#FF5349;'>Industrial Copper Modeling Application</h1>
+    <h1 style='color:#FF5349;'>Airbnb Analysis Application</h1>
 </div>
 """, unsafe_allow_html=True)
 
